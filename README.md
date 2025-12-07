@@ -6,8 +6,8 @@ Features modern UI with **Tailwind CSS v4, shadcn/ui, Framer Motion**, and full 
 ---
 
 ## Live Demo  
- **Frontend:** _add deployed link here_  
- **Backend API:** _add deployed link here_
+ **link:** (https://quizzy-ai-powered-quizes.vercel.app/)
+
 
 
 ---
