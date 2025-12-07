@@ -5,7 +5,7 @@ export interface Question {
   correctIndex: number;
 }
 
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://quizzy-ai-powered-quizes.onrender.com";
 
 function authHeader() {
   const token = localStorage.getItem("token");
